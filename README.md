@@ -1,3 +1,5 @@
+Link do curso: https://web.dio.me/track/formacao-outsystems-fundamentals
+
 Imagens para rememorar o projeto:
 ![image](https://github.com/caiohscruz/dio-hotel-outsystems/assets/42454698/3759fc43-ee6c-488e-b5b8-a8abc9f549b2)
 
